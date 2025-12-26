@@ -1,4 +1,6 @@
 # 💫 About Me:
+🎓 I'm a Master's student in Computer Science, currently based in Pune, India.
+
 🔭 I'm currently working on:<br>• Full-stack web applications using Django, Spring Boot, HTML, CSS, Bootstrap<br>• Data analysis and beginner-level data science projects<br>• Automation projects involving APIs and data processing<br><br>👯 I'm looking to collaborate on:<br>• Open-source web development projects<br>• Data science and data analysis projects<br>• Python, Java, or backend-focused applications<br><br>🤝 I'm looking for help with:<br>• Advanced data science concepts<br>• Machine learning model improvement<br>• Scaling backend applications and clean architecture<br><br>🌱 I'm currently learning:<br>• Data Science & Machine Learning<br>• Advanced Java & Spring Framework<br><br><br>💬 Ask me about:<br>• Data Science fundamentals (NumPy, Pandas, basic ML)<br>• Python, Java, SQL<br>• Django & Spring Boot<br>• Web development fundamentals<br><br>⚡ Fun fact:<br>• I enjoy turning raw data into meaningful insights 📊😄<br>
 
 
